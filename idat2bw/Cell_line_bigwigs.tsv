@@ -1,0 +1,71 @@
+sample	bigwig
+A549	methylation_bigwigs/A549.850k_probes.bw
+COLO 668	methylation_bigwigs/COLO-668.850k_probes.bw
+COR-L279	methylation_bigwigs/COR-L279.850k_probes.bw
+COR-L32	methylation_bigwigs/COR-L32.850k_probes.bw
+COR-L47	methylation_bigwigs/COR-L47.850k_probes.bw
+DMS 114	methylation_bigwigs/DMS-114.850k_probes.bw
+DMS 187	methylation_bigwigs/DMS-187.850k_probes.bw
+DMS 273	methylation_bigwigs/DMS-273.850k_probes.bw
+DMS 53	methylation_bigwigs/DMS-53.850k_probes.bw
+DMS 79	methylation_bigwigs/DMS-79.850k_probes.bw
+LXFS 605L	methylation_bigwigs/LXFS-605L.850k_probes.bw
+LXFS 650L	methylation_bigwigs/LXFS-650L.850k_probes.bw
+NCI-H1048	methylation_bigwigs/NCI-H1048.850k_probes.bw
+NCI-H1092	methylation_bigwigs/NCI-H1092.850k_probes.bw
+NCI-H1105	methylation_bigwigs/NCI-H1105.850k_probes.bw
+NCI-H128	methylation_bigwigs/NCI-H128.850k_probes.bw
+NCI-H1341	methylation_bigwigs/NCI-H1341.850k_probes.bw
+NCI-H1417	methylation_bigwigs/NCI-H1417.850k_probes.bw
+NCI-H1436	methylation_bigwigs/NCI-H1436.850k_probes.bw
+NCI-H146	methylation_bigwigs/NCI-H146.850k_probes.bw
+NCI-H1522	methylation_bigwigs/NCI-H1522.850k_probes.bw
+NCI-H1618	methylation_bigwigs/NCI-H1618.850k_probes.bw
+NCI-H1650	methylation_bigwigs/NCI-H1650.850k_probes.bw
+NCI-H1672	methylation_bigwigs/NCI-H1672.850k_probes.bw
+NCI-H1688	methylation_bigwigs/NCI-H1688.850k_probes.bw
+NCI-H1694	methylation_bigwigs/NCI-H1694.850k_probes.bw
+NCI-H1836	methylation_bigwigs/NCI-H1836.850k_probes.bw
+NCI-H187	methylation_bigwigs/NCI-H187.850k_probes.bw
+NCI-H1876	methylation_bigwigs/NCI-H1876.850k_probes.bw
+NCI-H1882	methylation_bigwigs/NCI-H1882.850k_probes.bw
+NCI-H1930	methylation_bigwigs/NCI-H1930.850k_probes.bw
+NCI-H196	methylation_bigwigs/NCI-H196.850k_probes.bw
+NCI-H1963	methylation_bigwigs/NCI-H1963.850k_probes.bw
+NCI-H2029	methylation_bigwigs/NCI-H2029.850k_probes.bw
+NCI-H2066	methylation_bigwigs/NCI-H2066.850k_probes.bw
+NCI-H2081	methylation_bigwigs/NCI-H2081.850k_probes.bw
+NCI-H209	methylation_bigwigs/NCI-H209.850k_probes.bw
+NCI-H2107	methylation_bigwigs/NCI-H2107.850k_probes.bw
+NCI-H211	methylation_bigwigs/NCI-H211.850k_probes.bw
+NCI-H2141	methylation_bigwigs/NCI-H2141.850k_probes.bw
+NCI-H2171	methylation_bigwigs/NCI-H2171.850k_probes.bw
+NCI-H2198	methylation_bigwigs/NCI-H2198.850k_probes.bw
+NCI-H220	methylation_bigwigs/NCI-H220.850k_probes.bw
+NCI-H2330	methylation_bigwigs/NCI-H2330.850k_probes.bw
+NCI-H250	methylation_bigwigs/NCI-H250.850k_probes.bw
+NCI-H28	methylation_bigwigs/NCI-H28.850k_probes.bw
+NCI-H345	methylation_bigwigs/NCI-H345.850k_probes.bw
+NCI-H378	methylation_bigwigs/NCI-H378.850k_probes.bw
+NCI-H446	methylation_bigwigs/NCI-H446.850k_probes.bw
+NCI-H510	methylation_bigwigs/NCI-H510.850k_probes.bw
+NCI-H524	methylation_bigwigs/NCI-H524.850k_probes.bw
+NCI-H526	methylation_bigwigs/NCI-H526.850k_probes.bw
+NCI-H660	methylation_bigwigs/NCI-H660.850k_probes.bw
+NCI-H69	methylation_bigwigs/NCI-H69.850k_probes.bw
+NCI-H69/CPR	methylation_bigwigs/NCI-H69.CPR.850k_probes.bw
+NCI-H69/LX10	methylation_bigwigs/NCI-H69.LX10.850k_probes.bw
+NCI-H69VCR/R	methylation_bigwigs/NCI-H69VCR.R.850k_probes.bw
+NCI-H711	methylation_bigwigs/NCI-H711.850k_probes.bw
+NCI-H719	methylation_bigwigs/NCI-H719.850k_probes.bw
+NCI-H720	methylation_bigwigs/NCI-H720.850k_probes.bw
+NCI-H735	methylation_bigwigs/NCI-H735.850k_probes.bw
+NCI-H748	methylation_bigwigs/NCI-H748.850k_probes.bw
+NCI-H774	methylation_bigwigs/NCI-H774.850k_probes.bw
+NCI-H82	methylation_bigwigs/NCI-H82.850k_probes.bw
+NCI-H841	methylation_bigwigs/NCI-H841.850k_probes.bw
+NCI-H847	methylation_bigwigs/NCI-H847.850k_probes.bw
+NCI-H865	methylation_bigwigs/NCI-H865.850k_probes.bw
+NCI-H889	methylation_bigwigs/NCI-H889.850k_probes.bw
+SHP-77	methylation_bigwigs/SHP-77.850k_probes.bw
+SW 1271	methylation_bigwigs/SW1271.850k_probes.bw
